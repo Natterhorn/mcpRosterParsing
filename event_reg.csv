@@ -1,0 +1,3249 @@
+event,fd,roster
+4557,183,"Avengers LVO
+
+[Characters]
+- Black Cat: 3
+- Black Widow: 2
+- Captain America Sam Wilson: 3
+- Captain America Steve Rogers: 4
+- Doctor Voodoo: 4
+- Hulk: 6
+- Iron Fist: 3
+- Iron Man: 3
+- Luke Cage: 3
+- Vision: 4
+
+[Team Tactics]
+- Advanced R&D
+- Avengers Assemble
+- Brace for Impact
+- Disarm
+- Escort to Safety
+- Field Dressing
+- Follow Me
+- Heroes For Hire
+- Ricochet Blast
+- Sacrifice
+
+[Extract Crises]
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Mystic Wakandan Herbs: Fact or Fiction? [A]: 15
+- Spider-Infected Invade Manhattan [F]: 17
+
+[Secure Crises]
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+- Portals Overrun City with Spider-People [D]: 18
+"
+4557,,"lvo
+
+Characters 10:
+Threat: 37
+*Cable Threat: 5
+Deadpool Threat: 3
+Domino Threat: 3
+Baron Zemo Threat: 3
+*Captain America Steve Rogers Threat: 4
+*Dormammu Threat: 8
+Hood Threat: 3
+Luke Cage Threat: 3
+Shuri Threat: 3
+Nebula Threat: 2
+
+Tactics 10:
+Avengers Assemble
+Blind Obsession
+Brace for Impact R
+Cat and Mouse
+Dark Restoration
+Heroes for Hire
+Medpack R
+Sacrifice
+Face Me
+Marked for Death
+
+Secure Crisis:
+S.W.O.R.D. Establishes Base on Moon's Blue Area Threat: 14
+Gamma Wave Sweeps Across Midwest Threat: 15
+Mayor Fisk Vows to Find Missing Witnesses Threat: 16
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Research Station Attacked! Threat: 16
+Mutant Extremists Target U.S. Senators! Threat: 14
+"
+4557,"183,301","Blade
+Moon knight
+Iron Fist
+Ghost rider
+Dr. Voodoo
+Zemo
+Hulkbuster
+Black dwarf
+Okoye
+Rocket
+
+Siege
+Bats
+Blind obsession
+Sacrifice
+Smash
+Heroes for hire
+Grievous wounds
+Deal w devil
+Brace for impact
+Patch up
+
+Intrusions
+Demons
+Sword
+
+Fear grips
+Alien ships
+Senators"
+4557,199,"spider foes
+
+[Characters]
+- Amazing Spider-Man: 5
+- Bullseye: 2
+- Doctor Octopus: 3
+- Doctor Strange, Sorcerer Supreme: 5
+- Green Goblin: 4
+- Killmonger: 4
+- Lizard: 3
+- Mystique: 3
+- Toad: 2
+- Venom: 4
+
+[Team Tactics]
+- Deception
+- Field Dressing
+- Lethal Protector
+- Marked For Death
+- Medpack
+- Mission Objective
+- Sacrifice
+- Sinister Traps
+- Usurp the Throne
+- Well-Laid Plans
+
+[Extract Crises]
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Spider-Infected Invade Manhattan [F]: 17
+- Struggle for the Cube Continues [F]: 17
+
+[Secure Crises]
+- Infinity Formula Goes Missing [B]: 17
+- Intrusions Open Across City As Seals Collapse [C]: 19
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+"
+4557,"193,301","Midnight
+
+[Characters]
+- Black Cat: 3
+- Blade: 4
+- Corvus Glaive: 4
+-- Infinity Gem: Reality: 1
+- Doctor Voodoo: 4
+- Ghost Rider: 5
+- Iron Fist: 3
+- Proxima Midnight: 3
+- Thanos, the Mad Titan: 6
+-- Infinity Gem: Mind: 1
+-- Infinity Gem: Space: 1
+- Vision: 4
+- Wong: 2
+
+[Team Tactics]
+- Bitter Rivals
+- Deal With The Devil
+- Execute
+- Follow Me
+- Heroes For Hire
+- Marked For Death
+- Medpack
+- Mothership
+- Sacrifice
+- Siege of Darkness
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Research Station Attacked! [E]: 16
+- Skrulls Infiltrate World Leadership [C]: 17
+
+[Secure Crises]
+- Cosmic Invasion! Black Order Descends on Earth [D]: 16
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Intrusions Open Across City As Seals Collapse [C]: 19
+"
+4557,301,"Midnight Defenders
+
+[Characters]
+- Black Dwarf: 4
+- Blade: 4
+- Doctor Voodoo: 4
+- Ghost Rider: 5
+- Iron Fist: 3
+- Luke Cage: 3
+- Moon Knight: 3
+- Shuri: 3
+- Toad: 2
+- Wong: 2
+
+[Team Tactics]
+- Brace for Impact
+- Deal With The Devil
+- Disarm
+- Grievous Wounds
+- Heroes For Hire
+- Marked For Death
+- Patch Up
+- Sacrifice
+- Seance
+- Siege of Darkness
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Research Station Attacked! [E]: 16
+
+[Secure Crises]
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Terrigen Clouds Sweep Over City [C]: 20
+"
+4557,183,"Cap Steve
+Quick silver
+Loki with mind
+Black Panther
+Scarlet witch
+Deadpool
+Iron Man
+Dr voodoo
+Black widow
+Zemo
+
+Tactics
+medpack, Brace, assemble, can i borrow that, disarm, exceptional healing, ricochet blast, mission objective, no more mutants, advanced R and d
+
+Herbs
+Hammers
+Research
+Gamma shelters
+Infinity formula 
+Mutant madman"
+4557,183,"[Characters]
+- Black Cat: 3
+- Black Widow: 2
+- Bullseye: 2
+- Captain America Sam Wilson: 3
+- Ghost Rider: 5
+- Hawkeye: 3
+- Hulkbuster: 6
+- Iron Fist: 3
+- Mystique: 3
+- Vision: 4
+
+[Team Tactics]
+- Avengers Assemble
+- Blind Obsession
+- Climbing Gear
+- Deal With The Devil
+- Deception
+- Disarm
+- Field Dressing
+- Helios Laser Bombardment
+- Heroes For Hire
+- Patch Up
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Spider-Infected Invade Manhattan [F]: 17
+- Struggle for the Cube Continues [F]: 17
+
+[Secure Crises]
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+- Portals Overrun City with Spider-People [D]: 18
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4557,"201,193,211","Kingpin. Brace 
+Hood medpack 
+Bullseye sacrifice 
+Black cat disarm 
+Thanos+M&P mothership 
+Corvus+R climbing gear 
+Proxima monkey brain 
+Cage heroes for hire 
+Lizard all according to plan 
+Black widow cruelty 
+
+Gamma wave 
+Extremis 3.0 
+Infinity formula 
+
+Cubes 
+Legacy virus 
+Research station"
+4557,195,"Starlord
+Rocket
+Groot
+Drax
+Nebula
+Angela
+Gamora
+Venom
+Bullseye
+Ghost Rider
+
+Field Dressing
+Brace for Impact
+Deadly Duo
+Loveable Misfits
+Crew of the Milano
+Blind Obsession
+Deal With The Devil
+Lethal Protector
+Marked For Death
+Sacrifice
+
+17 Skrulls Infiltrate World Leadership
+18 Fear Grips World As Worthy Terrorize Cities
+16 Research Station Attacked!
+
+15 Gamma Wave Sweeps Across Midwest
+19 Demons Downtown! Has Our Comeuppance Come Due?
+17 Infinity Formula Goes Missing"
+4557,"201,199","CS/Spider-Foes
+
+[Characters]
+- Bullseye: 2
+- Carnage: 4
+- Doctor Octopus: 3
+- Green Goblin: 4
+- Hood: 3
+- Kingpin: 4
+- Kraven the Hunter: 3
+- Lizard: 3
+- Mysterio: 3
+- Venom: 4
+
+[Team Tactics]
+- All According to Plan
+- Lethal Protector
+- Medpack
+- Monkey Brain is Lizard Home
+- Neogenetic Recombinator
+- Sacrifice
+- Sinister Traps
+- The Grand Illusion
+- Well-Laid Plans
+- X-Ceptional Healing
+
+[Extract Crises]
+- Deadly Legacy Virus Cured? [C]: 19
+- Research Station Attacked! [E]: 16
+- Spider-Infected Invade Manhattan [F]: 17
+
+[Secure Crises]
+- Infinity Formula Goes Missing [B]: 17
+- Intrusions Open Across City As Seals Collapse [C]: 19
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4557,"191,193","[Characters]
+- Black Cat: 3
+- Black Panther: 4
+- Corvus Glaive: 4
+-- Infinity Gem: Reality: 1
+- Doctor Voodoo: 4
+- Ghost-Spider: 3
+- Moon Knight: 3
+- Proxima Midnight: 3
+- Spider-Man Miles Morales: 3
+- Thanos, the Mad Titan: 6
+-- Infinity Gem: Mind: 1
+-- Infinity Gem: Space: 1
+- Toad: 2
+
+[Team Tactics]
+- Advanced R&D
+- All Webbed Up
+- Brace for Impact
+- Disarm
+- Marked For Death
+- Medpack
+- Mission Objective
+- Mothership
+- Sacrifice
+- Spider-Tracker
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Mutant Extremists Target U.S. Senators! [C]: 14
+- Skrulls Infiltrate World Leadership [C]: 17
+
+[Secure Crises]
+- Cosmic Invasion! Black Order Descends on Earth [D]: 16
+- Infinity Formula Goes Missing [B]: 17
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4557,201,"Kingpin
+Voodoo
+Lizard
+Black Cat
+Crossbones
+Hood
+Mysterio
+Luke Cage
+Bullseye
+Toad
+
+Brace
+Medpack
+The Grand Illusion
+Monkey Brain
+Heroes for Hire
+All According To Plan
+Mission Objective
+Climbing Gear
+Disarm
+Sacrifice
+
+Infinity
+Gamma
+Extremis
+
+Wakandan Herbs
+Research Base
+Legacy Virus
+
+So much Copium it hurts.
+
+"
+4557,,"MS/DEF
+
+Characters 10:
+Threat: 37
+*Doctor Strange Soul Threat: 6
+Doctor Voodoo Threat: 4
+*Blade Threat: 4
+Ghost Rider Threat: 5
+Iron Fist Threat: 3
+Taskmaster Threat: 3
+Moon Knight Threat: 3
+Okoye Threat: 2
+Daredevil Threat: 4
+Hawkeye Threat: 3
+
+Tactics 10:
+Heroes for Hire
+Field Dressing R
+Brace for Impact R
+Bats the Ghost Hound
+Siege of Darkness
+Blind Obsession
+Deal with the Devil
+Disarm
+Pentagram of Farallah
+Sacrifice
+
+Secure Crisis:
+Riots Spark Over Extremis 3.0 Threat: 17
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+Portals Overrun City with Spider-People! Threat: 18
+
+Extract Crisis:
+Skrulls Infiltrate World Leadership Threat: 17
+Research Station Attacked! Threat: 16
+The Montesi Formula Found Threat: 17
+"
+4557,195,"guardians of the fricken galaxy V3
+
+Characters 10:
+Threat: 34
+*Star-Lord Threat: 3
+Angela Threat: 5
+Drax the Destroyer Threat: 3
+Groot Threat: 3
+Rocket Raccoon Threat: 2
+Gamora Threat: 4
+Okoye Threat: 2
+Lizard Threat: 3
+Deadpool Threat: 3
+*Hulkbuster Threat: 6
+
+Tactics 10:
+Crew of the Milano
+Deadly Duo
+Lovable Misfits
+Brace for Impact R
+Blind Obsession
+We Are Groot
+Medpack R
+X-Ceptional Healing
+Climbing Gear
+Helios Laser Bombardment
+
+Secure Crisis:
+Cosmic Invasion! Black Order Descends on Earth Threat: 16
+Portals Overrun City with Spider-People! Threat: 18
+Riots Spark Over Extremis 3.0 Threat: 17
+
+Extract Crisis:
+Spider-Infected Invade Manhattan Threat: 17
+Struggle for the Cube Continues Threat: 17
+Mutant Extremists Target U.S. Senators! Threat: 14
+"
+4557,,"LVO 2022
+
+[Characters]
+- Black Cat: 3
+- Bullseye: 2
+- Captain America Sam Wilson: 3
+- Dormammu: 8
+- Hulkbuster: 6
+- Iron Fist: 3
+- Iron Man: 3
+- Luke Cage: 3
+- Mystique: 3
+- Okoye: 2
+
+[Team Tactics]
+- Avengers Assemble
+- Brace for Impact
+- Climbing Gear
+- Dark Restoration
+- Deception
+- Helios Laser Bombardment
+- Heroes For Hire
+- Medpack
+- Seeing Red
+- Smash
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Skrulls Infiltrate World Leadership [C]: 17
+- The Montesi Formula Found [E]: 17
+
+[Secure Crises]
+- Deadly Meteors Mutate Civilians [C]: 17
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Intrusions Open Across City As Seals Collapse [C]: 19
+"
+4555,"189,193","Corvus + R
+Proxima
+Hulk
+Dwarf
+Maw+Mind
+Thor
+Angela
+Valk
+Gamora
+Toad
+
+Mission O
+Blood to spare
+Medpack
+Brace
+Mothership
+Sacrifice
+Odins
+Rainbow Bridge
+Gamma launch
+Extreme conditioning
+
+Intrusions
+Terrigen
+Demons
+Montessi
+Worthy
+Skrulls "
+4555,301,"GR
+Scarlett Witch
+Strange
+Blade
+Hawkeye
+Warmachine
+Iron Fist
+Cage
+Moon Knight
+Wong
+
+Siege
+Bats
+No more mutants
+H4H
+Medpack
+Brace
+Kickem while they are Down
+Deal with the devil
+Heavy Ord
+1-2p
+
+Demons
+Meteors
+Gamma
+
+Worthy
+Montessi
+Research "
+4555,"187,183","Vegas WakaWaka 1.0
+
+Characters 10:
+Threat: 37
+*Black Panther Threat: 4
+Shuri Threat: 3
+Okoye Threat: 2
+Killmonger Threat: 4
+Vision Threat: 4
+*Captain America Sam Wilson Threat: 3
+*Hulkbuster Threat: 6
+Hulk Threat: 6
+Black Cat Threat: 3
+Nebula Threat: 2
+
+Tactics 10:
+Wakanda Forever
+Field Dressing R
+Usurp the Throne
+Vibranium Shielding
+Bird of Prey
+Helios Laser Bombardment
+Advanced R&D
+One-Two Punch
+Medpack R
+Disarm
+
+Secure Crisis:
+S.W.O.R.D. Establishes Base on Moon's Blue Area Threat: 14
+Gamma Wave Sweeps Across Midwest Threat: 15
+Infinity Formula Goes Missing! Threat: 17
+
+Extract Crisis:
+Mystic Wakandan Herbs: Fact or Fiction? Threat: 15
+Research Station Attacked! Threat: 16
+The Montesi Formula Found Threat: 17
+"
+4555,195,"
+Guardians
+
+Characters 10:
+Threat: 36
+Angela Threat: 5
+*Star-Lord Threat: 3
+Rocket Raccoon Threat: 2
+Groot Threat: 3
+Gamora Threat: 4
+Nebula Threat: 2
+Ghost Rider Threat: 5
+Hulk Threat: 6
+Winter Soldier Threat: 3
+Proxima Midnight Threat: 3
+
+Tactics 10:
+Bitter Rivals R
+Crew of the Milano
+Daughter of Thanos
+Deadly Duo
+Lovable Misfits
+We Are Groot
+Blind Obsession
+Deal with the Devil
+Disarm
+Medpack R
+
+Secure Crisis:
+Infinity Formula Goes Missing! Threat: 17
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+
+Extract Crisis:
+Spider-Infected Invade Manhattan Threat: 17
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Struggle for the Cube Continues Threat: 17
+
+"
+4555,183,"[Characters]
+- Black Cat: 3
+- Black Widow: 2
+- Bullseye: 2
+- Captain America Sam Wilson: 3
+- Ghost Rider: 5
+- Hawkeye: 3
+- Hulkbuster: 6
+- Iron Fist: 3
+- Mystique: 3
+- Vision: 4
+
+[Team Tactics]
+- Avengers Assemble
+- Climbing Gear
+- Deal With The Devil
+- Deception
+- Disarm
+- Field Dressing
+- Follow Me
+- Helios Laser Bombardment
+- Heroes For Hire
+- Patch Up
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Deadly Legacy Virus Cured? [C]: 19
+- Struggle for the Cube Continues [F]: 17
+
+[Secure Crises]
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+- Portals Overrun City with Spider-People [D]: 18
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4555,"201,211","Kingpin
+Voodoo
+Black Cat
+Mysterio
+Crossbones
+Good
+Lizard
+Luke Cage
+Toad
+Bullseye
+
+All According To Plan
+Medpack
+Brace for Impact
+Mission Objective
+Warpath
+Climbing Gear
+Disarm
+Sacrifice
+The Grand Illusion
+Heroes for Hire
+
+Infinity Formula
+Gamma Wave
+Extremis Console
+
+Wakandan Herbs
+Research Base
+Legacy Virus
+
+Lots of Copium"
+4555,"183,209","Characters 10:
+Threat: 39
+*Captain America Sam Wilson Threat: 3
+Okoye Threat: 2
+Iron Fist Threat: 3
+Luke Cage Threat: 3
+Iron Man Threat: 3
+War Machine Threat: 3
+Hulk Threat: 6
+*Hulkbuster Threat: 6
+*She-Hulk Threat: 6
+Vision Threat: 4
+
+Tactics 10:
+Ricochet Blast
+Field Dressing R
+Avengers Assemble
+Second Wind
+Heroes for Hire
+Advanced R&D
+Helios Laser Bombardment
+Gamma Launch
+Medpack R
+Bird of Prey
+
+Secure Crisis:
+Terrigen Clouds Sweep Over City Threat: 20
+Riots Spark Over Extremis 3.0 Threat: 17
+Portals Overrun City with Spider-People! Threat: 18
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Struggle for the Cube Continues Threat: 17
+Research Station Attacked! Threat: 16"
+4555,"183,193","Corvus glaive+reality stone
+Proxima midnight
+Black dwarf
+Ebony maw& space stone
+Thanos & power stone
+Iron man
+Hulk
+Thor
+Captain america
+Black widow orig
+
+Tactics
+Patch up
+Med pack
+Heavy Firepower
+Disarm
+Seeing red
+Tactical analysis
+Smash
+Avengers assemble 
+Gamma launch
+Blood to spare
+
+Secure crisis
+Deadly meteors mutate civilians
+Riots spark extremis 3.0
+Demons downtown has our comeuppance come due
+Extraction crisis
+Spider infected invade Manhattan 
+Struggle for the cube continues
+Deadly legacy virus cured?"
+4555,"199,201","Foe Da Original
+
+Characters 10:
+Threat: 35
+*Green Goblin Threat: 4
+Doctor Octopus Threat: 3
+Lizard Threat: 3
+Mysterio Threat: 3
+Kraven the Hunter Threat: 3
+Venom Threat: 4
+*Kingpin Threat: 4
+*Star-Lord Power Threat: 4
+Killmonger Threat: 4
+Lockjaw Threat: 3
+
+Tactics 10:
+Sinister Traps
+Well-Laid Plans
+Usurp the Throne
+Eyes on the Prize
+Blind Obsession
+Bitter Rivals R
+Lethal Protector
+Monkey Brain is Lizard Home
+Grievous Wounds
+Brace for Impact R
+
+Secure Crisis:
+Infinity Formula Goes Missing! Threat: 17
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+Riots Spark Over Extremis 3.0 Threat: 17
+
+Extract Crisis:
+Struggle for the Cube Continues Threat: 17
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Spider-Infected Invade Manhattan Threat: 17
+"
+4555,195,"guardians of the fricken galaxy V3
+
+Characters 10:
+Threat: 34
+*Star-Lord Threat: 3
+Angela Threat: 5
+Drax the Destroyer Threat: 3
+Groot Threat: 3
+Rocket Raccoon Threat: 2
+Gamora Threat: 4
+Okoye Threat: 2
+Lizard Threat: 3
+Deadpool Threat: 3
+*Hulkbuster Threat: 6
+
+Tactics 10:
+Crew of the Milano
+Deadly Duo
+Lovable Misfits
+Brace for Impact R
+Blind Obsession
+We Are Groot
+Medpack R
+X-Ceptional Healing
+Climbing Gear
+Helios Laser Bombardment
+
+Secure Crisis:
+Cosmic Invasion! Black Order Descends on Earth Threat: 16
+Portals Overrun City with Spider-People! Threat: 18
+Riots Spark Over Extremis 3.0 Threat: 17
+
+Extract Crisis:
+Spider-Infected Invade Manhattan Threat: 17
+Struggle for the Cube Continues Threat: 17
+Mutant Extremists Target U.S. Senators! Threat: 14
+"
+4555,195,"Guardians of The Galaxy LVO 2.0
+
+Characters 10:
+Threat: 33
+*Star-Lord Threat: 3
+Groot Threat: 3
+Rocket Raccoon Threat: 2
+Gamora Threat: 4
+Angela Threat: 5
+Toad Threat: 2
+*Mystique Threat: 3
+Nebula Threat: 2
+*Hulkbuster Threat: 6
+*Captain America Sam Wilson Threat: 3
+
+Tactics 10:
+Crew of the Milano
+We Are Groot
+Deadly Duo
+Blind Obsession
+Deception
+Field Dressing R
+Helios Laser Bombardment
+Medpack R
+Marked for Death
+Sacrifice
+
+Secure Crisis:
+Riots Spark Over Extremis 3.0 Threat: 17
+Portals Overrun City with Spider-People! Threat: 18
+Cosmic Invasion! Black Order Descends on Earth Threat: 16
+
+Extract Crisis:
+Spider-Infected Invade Manhattan Threat: 17
+Struggle for the Cube Continues Threat: 17
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+"
+4555,183,"Sam Wilson
+Iron fist
+Luke cage
+War machine
+Okoye
+Hulk
+Bullseye
+Nebula
+2 pt widow
+Baron zemo"
+4555,"201,199","Kingpin
+Green goblin
+Taskmaster
+Baron zemo
+M.o.d.o.k
+Doctor octopus
+Black cat
+Lizard
+Mysterio
+Bullseye"
+4555,"185,201","Red skull
+MODOK
+Okoye
+Enchantress 
+Bullseye
+Lizard
+Kingpin
+Vision
+Hawkeye
+Medpack
+Cosmic invigoration 
+Tactical analysis 
+Mission objective
+Marked for death
+Sucker
+Field dressing 
+Dark reign
+Brace for impact
+Disarm
+Riots spark over extremsis 3
+Infinity formula goes missing
+Mutant madman turns city center…
+Struggle for cube continues
+Fear grips world as worthy…
+Spider infected invade Manhattan "
+4555,199,"Green Goblin 
+Venom 
+Kraven the hunter
+Lizard 
+Carnage
+Toad
+Mysterio 
+Black cat
+Doctor octopus 
+Ghost Rider
+------------
+Well Laid plans 
+There will be Carnage
+Monkey brain is lizard home
+Carnage rules
+Neogentic recombinator 
+Sinister traps
+The grand illusion 
+Highway to hell 
+Deal with the devil 
+Lethal protector 
+-----------------
+Riots spark over extremis 3.0 
+Infity formula goes missing 
+Deadly meteors mutate civilians 
+
+Skrulls infiltrate world leadership 
+Spider-infected invade Manhattan 
+Struggle for the cube continues "
+4555,301,"Midnight Defenders
+
+[Characters]
+- Black Dwarf: 4
+- Blade: 4
+- Doctor Voodoo: 4
+- Ghost Rider: 5
+- Iron Fist: 3
+- Luke Cage: 3
+- Moon Knight: 3
+- Shuri: 3
+- Toad: 2
+- Wong: 2
+
+[Team Tactics]
+- Brace for Impact
+- Deal With The Devil
+- Disarm
+- Grievous Wounds
+- Heroes For Hire
+- Marked For Death
+- Patch Up
+- Sacrifice
+- Seance
+- Siege of Darkness
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Research Station Attacked! [E]: 16
+
+[Secure Crises]
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Terrigen Clouds Sweep Over City [C]: 20
+"
+4555,305,"LVO Wizards
+
+[Characters]
+- Ancient One: 4
+- Angela: 5
+- Baron Mordo: 3
+- Baron Zemo: 3
+- Bullseye: 2
+- Doctor Strange, Sorcerer Supreme: 5
+- Doctor Voodoo: 4
+- Ebony Maw: 5
+-- Infinity Gem: Space: 1
+- Lizard: 3
+- Venom: 4
+
+[Team Tactics]
+- Brace for Impact
+- Eyes on the Prize
+- Field Dressing
+- Iron-Bound Books of Shuma-Gorath
+- Lethal Protector
+- Marked For Death
+- Orb of Agamotto
+- Plane of Pohldahk
+- Shhh...
+- The Bar With No Doors
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Research Station Attacked! [E]: 16
+
+[Secure Crises]
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Infinity Formula Goes Missing [B]: 17
+"
+4555,"209,183","[Characters]
+- Black Widow: 2
+- Captain America Sam Wilson: 3
+- Captain America Steve Rogers: 4
+- Hulk: 6
+- Iron Fist: 3
+- Lizard: 3
+- Luke Cage: 3
+- Okoye: 2
+- She-Hulk: 6
+- Vision: 4
+
+[Team Tactics]
+- Avengers Assemble
+- Blind Obsession
+- Climbing Gear
+- Disarm
+- Escort to Safety
+- Field Dressing
+- Heroes For Hire
+- Medpack
+- Mission Objective
+- Sacrifice
+
+[Extract Crises]
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Mystic Wakandan Herbs: Fact or Fiction? [A]: 15
+- Research Station Attacked! [E]: 16
+
+[Secure Crises]
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- S.W.O.R.D. Establishes Base On Moon's Blue Area [C]: 14
+- Terrigen Clouds Sweep Over City [C]: 20
+"
+4555,195,"Starlord
+Rocket
+Groot
+Drax
+Nebula
+Angela
+Winter Solider
+Venom
+Bullseye
+Ghost Rider
+
+Field Dressing
+Brace for Impact
+Deadly Duo
+Loveable Misfits
+Crew of the Milano
+Blind Obsession
+Deal With The Devil
+Lethal Protector
+Marked For Death
+Sacrifice
+
+17 Skrulls Infiltrate World Leadership
+18 Fear Grips World As Worthy Terrorize Cities
+16 Research Station Attacked!
+
+15 Gamma Wave Sweeps Across Midwest
+19 Demons Downtown! Has Our Comeuppance Come Due?
+17 Infinity Formula Goes Missing"
+4555,"193,183","Thanos / Mind Gem
+Corvus / Reality Gem
+Proxima Midnight
+Sam Wilson
+Iron Man
+Iron Fist
+Hawkeye
+Black Widow
+Scarlet Witch
+Vision
+
+Mothership
+Execute 
+Bitter Rivals
+Bird of Prey
+Ricochet Blast
+Heroes for Hire
+Marked For Death
+Field Dressing
+Avengers Assemble
+Follow Me
+
+Deadly Meteors 17C
+SWORD Base 14C
+Demons Downtown 19E
+
+Alien Ship 20C
+Wakanda Herb 15A
+Skrulls 17C"
+4555,213,"Cable. Brace 
+Deadpool. Medpack 
+Domino. Cat and mouse 
+Bob. Xceptional healing 
+Wolverine. Pretty sneaky sis 
+Saber tooth. Weapon X program 
+Cyclops. Yoink 
+Winter soldier. Bitter rivals 
+Beast. Chimichangas 
+Zemo. Follow me 
+
+Secure 
+Sword base 
+Mutant madman 
+Infinity formula 
+
+Extract 
+Struggle for cube 
+Deadly legacy virus 
+Montessi formula."
+4555,183,"Falcon
+
+Characters 10:
+Threat: 38
+Ant-Man Threat: 3
+*Cable Threat: 5
+*Captain America Sam Wilson Threat: 3
+*Hulkbuster Threat: 6
+Iron Fist Threat: 3
+Luke Cage Threat: 3
+Black Widow Threat: 2
+Vision Threat: 4
+*Black Panther Threat: 4
+Ghost Rider Threat: 5
+
+Tactics 10:
+Heroes for Hire
+Avengers Assemble
+Blind Obsession
+Bird of Prey
+Brace for Impact R
+Medpack R
+Mission Objective
+Follow Me
+Highway to Hell
+Deal with the Devil
+
+Secure Crisis:
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+Gamma Wave Sweeps Across Midwest Threat: 15
+Infinity Formula Goes Missing! Threat: 17
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Mystic Wakandan Herbs: Fact or Fiction? Threat: 15
+Research Station Attacked! Threat: 16
+"
+4555,183,"Hulk
+Black Panther
+Black Widow
+Scarlet Witch
+Captain Marvel
+Captain America
+Iron man
+Hawk eye
+Bulls Eye
+Baron Zemo
+
+Avengers Assemble
+Med pack
+No more Mutants
+Ricochet Blast
+Escort to Safety
+Heavy Firepower
+Brace for Impact
+Second Wind
+Mission Objective
+Advanced R and D
+
+Deadly meteors
+Riots spark
+Portals Overrun
+
+Research Station
+Minted I Formula
+Fear grips 
+
+
+
+
+
+"
+4555,199,"Green goblin
+Kingpin
+Doctor octopus 
+Kraven 
+Lizard
+Mysterio
+Carnage 
+Venom
+Bullseye 
+Nebula 
+
+Tactics:
+Sinister traps
+Ned pack
+Grand illusion 
+Monkey brain lizard home 
+Neogenetic recombinator 
+Lethal protector
+Fearful symmetry 
+Well laid plans
+Carnage rules
+
+Secure:
+Riot sparks 
+Cosmic invasion 
+Infinity formula 
+
+Extract:
+Senators
+Spider infected 
+Struggle for cube"
+4555,201,"CS LVO v1
+
+Characters 10:
+Threat: 30
+Lizard Threat: 3
+Black Cat Threat: 3
+Bullseye Threat: 2
+Mysterio Threat: 3
+*Kingpin Threat: 4
+Hood Threat: 3
+Iron Fist Threat: 3
+Toad Threat: 2
+Omega Red Threat: 4
+Baron Zemo Threat: 3
+
+Tactics 10:
+Medpack R
+All According to Plan
+The Grand Illusion
+Climbing Gear
+Sacrifice
+Advanced R&D
+Field Dressing R
+Monkey Brain is Lizard Home
+Heroes for Hire
+Hood's Gang
+
+Secure Crisis:
+Terrigen Clouds Sweep Over City Threat: 20
+Gamma Wave Sweeps Across Midwest Threat: 15
+Mayor Fisk Vows to Find Missing Witnesses Threat: 16
+
+Extract Crisis:
+Deadly Legacy Virus Cured? Threat: 19
+Struggle for the Cube Continues Threat: 17
+Research Station Attacked! Threat: 16
+"
+4555,"183,303","LVO 2022
+
+[Characters]
+- Baron Mordo: 3
+- Bullseye: 2
+- Captain America Sam Wilson: 3
+- Dormammu: 8
+- Hood: 3
+- Hulkbuster: 6
+- Iron Fist: 3
+- Luke Cage: 3
+- Mystique: 3
+- Okoye: 2
+
+[Team Tactics]
+- Avengers Assemble
+- Brace for Impact
+- Climbing Gear
+- Dark Restoration
+- Deception
+- Helios Laser Bombardment
+- Heroes For Hire
+- Patch Up
+- Red Room Training
+- Smash
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Research Station Attacked! [E]: 16
+- Skrulls Infiltrate World Leadership [C]: 17
+
+[Secure Crises]
+- Deadly Meteors Mutate Civilians [C]: 17
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- S.W.O.R.D. Establishes Base On Moon's Blue Area [C]: 14
+"
+4555,305,"Convocation
+
+Characters 10:
+Threat: 36
+Doctor Strange, Sorcerer Supreme Threat: 5
+Ancient One Threat: 4
+Doctor Voodoo Threat: 4
+Baron Mordo Threat: 3
+Ebony Maw Threat: 5
+Hood Threat: 3
+Baron Zemo Threat: 3
+Loki, God of Mischief Threat: 4
+Bullseye Threat: 2
+Clea Threat: 3
+
+Tactics 10:
+Astral Ring
+Iron-Bound Books of Shuma-Gorath
+Plane of Pohldahk
+The Bar with No Doors
+Book of Cagliostro
+Disarm
+Bitter Rivals R
+Eyes on the Prize
+Field Dressing R
+Orb of Agamotto
+
+Secure Crisis:
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+Terrigen Clouds Sweep Over City Threat: 20
+Intrusions Open Across City as Seals Collapse Threat: 19
+
+Extract Crisis:
+Alien Ship Crashes in Downtown! Threat: 20
+Skrulls Infiltrate World Leadership Threat: 17
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+"
+4555,"301,183","Midnight Sons
+
+Characters 10:
+Threat: 37
+*Doctor Strange Threat: 5
+*Blade Threat: 4
+Doctor Voodoo Threat: 4
+Venom Threat: 4
+Iron Fist Threat: 3
+Moon Knight Threat: 3
+Ghost-Spider Threat: 3
+Baron Zemo Threat: 3
+Bullseye Threat: 2
+*Hulkbuster Threat: 6
+
+Tactics 10:
+Siege of Darkness
+Heroes for Hire
+Lethal Protector
+Disarm
+Medpack R
+Climbing Gear
+Blind Obsession
+Bitter Rivals R
+Advanced R&D
+Avengers Assemble
+
+Secure Crisis:
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+Infinity Formula Goes Missing! Threat: 17
+Gamma Wave Sweeps Across Midwest Threat: 15
+
+Extract Crisis:
+Research Station Attacked! Threat: 16
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Spider-Infected Invade Manhattan Threat: 17
+"
+4555,"201,199","CS/Spider-Foes
+
+[Characters]
+- Bullseye: 2
+- Carnage: 4
+- Doctor Octopus: 3
+- Green Goblin: 4
+- Hood: 3
+- Kingpin: 4
+- Kraven the Hunter: 3
+- Lizard: 3
+- Mysterio: 3
+- Venom: 4
+
+[Team Tactics]
+- All According to Plan
+- Carnage Rules
+- Lethal Protector
+- Medpack
+- Neogenetic Recombinator
+- Sacrifice
+- Sinister Traps
+- The Grand Illusion
+- Well-Laid Plans
+- X-Ceptional Healing
+
+[Extract Crises]
+- Deadly Legacy Virus Cured? [C]: 19
+- Research Station Attacked! [E]: 16
+- Spider-Infected Invade Manhattan [F]: 17
+
+[Secure Crises]
+- Infinity Formula Goes Missing [B]: 17
+- Intrusions Open Across City As Seals Collapse [C]: 19
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4555,216,"Black Bolt
+Lockjaw
+Medusa
+Ronan
+Angela
+Enchantress
+Punisher
+Hawkeye
+Quicksilver
+Wong
+
+Mission o
+Royal fam
+Terrigenisis
+Warpath
+Inspiring monologue
+Last min save
+Rivals
+Can i borrow
+Field Dressing
+Extreme conditioning
+
+Demons
+Meteors
+Gamma
+Research
+Skrulls
+Legacy"
+4555,206,"Brotherhood
+
+[Characters]
+- Captain Marvel: 4
+- Ghost-Spider: 3
+- Lizard: 3
+- Lockjaw: 3
+- Magneto: 6
+- Mystique: 3
+- Quicksilver: 3
+- Scarlet Witch: 5
+- Toad: 2
+- Vision: 4
+
+[Team Tactics]
+- Asteroid M
+- Blind Obsession
+- Can I Borrow That?
+- Climbing Gear
+- Deception
+- Field Dressing
+- Magnetic Refraction
+- Monkey Brain is Lizard Home
+- No More Mutants
+- Patch Up
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Deadly Legacy Virus Cured? [C]: 19
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+
+[Secure Crises]
+- Deadly Meteors Mutate Civilians [C]: 17
+- Intrusions Open Across City As Seals Collapse [C]: 19
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+"
+4555,"301,191","Amazing Spiderman, Scarlet Witch, Ghost Rider, Blade, Dr. Voodoo, Iron Fist, Moon Night, Spiderman Miles Spider Gwen, Bullseye"
+4555,"189,185","LVO 2022
+Thor, Hela,  Valkyrie, Angela, Sin, Crossbones, Bullseye, Baron Zemo, Enchantress, Cpt America Steve
+.
+Odin’s Blessing, Dark Reign, Brace for Impact, Patch Up, Tactical Analysis, Disarm, Escort to Safety, Sacrifice, climbing gear, illicit tech. 
+.
+Deadly Meteors, Spider Portals, Mutant Mad Man / Montesi Formula, Wakanda Herbs, Alien Ship Crash/Core"
+4555,"301,183","Midnight Sons
+
+Characters 10:
+Threat: 37
+*Blade Threat: 4
+Doctor Voodoo Threat: 4
+Ghost Rider Threat: 5
+Iron Fist Threat: 3
+Moon Knight Threat: 3
+*Hulkbuster Threat: 6
+Venom Threat: 4
+Bullseye Threat: 2
+Baron Zemo Threat: 3
+Hawkeye Threat: 3
+
+Tactics 10:
+Bats the Ghost Hound
+Siege of Darkness
+Banishment
+Advanced R&D
+Bitter Rivals R
+Medpack R
+Seance
+Heroes for Hire
+Deal with the Devil
+Recalibration Matrix
+
+Secure Crisis:
+Terrigen Clouds Sweep Over City Threat: 20
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+Intrusions Open Across City as Seals Collapse Threat: 19
+
+Extract Crisis:
+Alien Ship Crashes in Downtown! Threat: 20
+Deadly Legacy Virus Cured? Threat: 19
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+"
+4555,"193,301","Midnight
+
+[Characters]
+- Black Cat: 3
+- Blade: 4
+- Corvus Glaive: 4
+-- Infinity Gem: Reality: 1
+- Doctor Voodoo: 4
+- Ghost Rider: 5
+- Iron Fist: 3
+- Proxima Midnight: 3
+- Thanos, the Mad Titan: 6
+-- Infinity Gem: Mind: 1
+-- Infinity Gem: Space: 1
+- Vision: 4
+- Wong: 2
+
+[Team Tactics]
+- Bitter Rivals
+- Deal With The Devil
+- Execute
+- Follow Me
+- Heroes For Hire
+- Marked For Death
+- Medpack
+- Mothership
+- Sacrifice
+- Siege of Darkness
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Research Station Attacked! [E]: 16
+- Skrulls Infiltrate World Leadership [C]: 17
+
+[Secure Crises]
+- Cosmic Invasion! Black Order Descends on Earth [D]: 16
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Intrusions Open Across City As Seals Collapse [C]: 19
+"
+4555,"301,197","Dr Strange with Soul Stone 
+Hulk 
+Blade 
+Ghost Rider 
+Dr Voodoo 
+Iron Fist 
+Moon Knight 
+Black Cat 
+Winter Soldier 
+Toad 
+
+Field Dressing r 
+Bitter Rivals r 
+Siege of Darkness 
+Deal with the Devil 
+Tactical Analysis 
+Hero’s for Hire 
+Bats the Ghost Hound 
+Advanced R&D 
+Inspiring Monologue 
+Seance 
+
+Terrigan Clouds 
+Demons Downtown 
+Gamma Wave
+
+Fear Grips World aka Hammers 
+Spider-Infected Invade Manhattan 
+Skrulls Infiltrate World Leadership"
+4555,183,"Avengers 
+Characters: 
+Captain America Sam-3 
+Iron man-3 
+Luke Cage-3 
+Iron Fist-3 
+Lizard-3 
+Black widow-2 
+Black cat-3 
+Doctor Voodoo-4 
+Vision-4 
+Amazing Spider-Man-5 
+
+Team tactics: 
+Avengers assemble 
+Ricochet blast 
+Birds of prey 
+Medpack 
+Field Dressing 
+Sacrifice 
+Disarm 
+Heroes for hire 
+Blind obsession 
+Helios laser bombardment 
+
+Secures: 
+Spider portals 
+Mutant madman 
+Riots 
+
+Extracts: 
+Cubes
+Hammers 
+Montesi "
+4555,"301,183","Blade
+Moon knight
+Iron Fist
+Ghost rider
+Dr. Voodoo
+Zemo
+Hulkbuster
+Black dwarf
+Okoye
+Rocket
+
+Siege
+Bats
+Blind obsession
+Sacrifice
+Smash
+Heroes for hire
+Grievous wounds
+Deal w devil
+Brace for impact
+Patch up
+
+Intrusions
+Demons
+Infinity formula
+
+Fear grips
+Alien ships
+Research station"
+4555,201,"Kingpin. Brace
+Hood medpack
+Bullseye sacrifice
+Black cat disarm
+Thanos+M&P mothership
+Corvus+R climbing gear
+Proxima monkey brain
+Cage heroes for hire
+Lizard all according to plan
+Black widow cruelty 
+
+Gamma wave
+Extremis 3.0
+Infinity formula
+
+Cubes
+Legacy virus
+Research station"
+4555,"191,193","[Characters]
+- Black Cat: 3
+- Black Panther: 4
+- Corvus Glaive: 4
+-- Infinity Gem: Reality: 1
+- Doctor Voodoo: 4
+- Ghost-Spider: 3
+- Moon Knight: 3
+- Proxima Midnight: 3
+- Spider-Man Miles Morales: 3
+- Thanos, the Mad Titan: 6
+-- Infinity Gem: Mind: 1
+-- Infinity Gem: Space: 1
+- Toad: 2
+
+[Team Tactics]
+- Advanced R&D
+- All Webbed Up
+- Brace for Impact
+- Disarm
+- Marked For Death
+- Medpack
+- Mission Objective
+- Mothership
+- Sacrifice
+- Spider-Tracker
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Mutant Extremists Target U.S. Senators! [C]: 14
+- Skrulls Infiltrate World Leadership [C]: 17
+
+[Secure Crises]
+- Cosmic Invasion! Black Order Descends on Earth [D]: 16
+- Infinity Formula Goes Missing [B]: 17
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4555,,"lvo
+
+Characters 10:
+Threat: 37
+*Cable Threat: 5
+Deadpool Threat: 3
+Domino Threat: 3
+Baron Zemo Threat: 3
+*Captain America Steve Rogers Threat: 4
+*Dormammu Threat: 8
+Hood Threat: 3
+Luke Cage Threat: 3
+Shuri Threat: 3
+Nebula Threat: 2
+
+Tactics 10:
+Avengers Assemble
+Blind Obsession
+Brace for Impact R
+Cat and Mouse
+Dark Restoration
+Heroes for Hire
+Medpack R
+Sacrifice
+Face Me
+Marked for Death
+
+Secure Crisis:
+S.W.O.R.D. Establishes Base on Moon's Blue Area Threat: 14
+Gamma Wave Sweeps Across Midwest Threat: 15
+Mayor Fisk Vows to Find Missing Witnesses Threat: 16
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Research Station Attacked! Threat: 16
+Mutant Extremists Target U.S. Senators! Threat: 14
+"
+4555,"191,199","Green Goblin
+Venom
+Carnage
+Kraven
+Doc Oc
+Lizard
+Spider-man Miles
+Amazing Spider-Man
+Black Cat
+Ghost spider
+
+Team tactics:
+Disarm
+The cat and the spider
+Lethal protector
+Carnage rules
+Sinister traps
+Blind Obsession
+Well- Laid Plans
+Spider- Tracker
+All webbed up
+Aunt May's wheat cakes
+
+Secure:
+Gamma wave
+Riots spark
+Cosmic Invasion"
+4555,,"Defenders + Midnight Son
+
+[Characters]
+- Blade: 4
+- Doctor Strange: 5
+- Ghost Rider: 5
+- Ghost-Spider: 3
+- Hela, Queen of Hel: 4
+- Hulk: 6
+- Iron Fist: 3
+- Moon Knight: 3
+- Okoye: 2
+- Wong: 2
+
+[Team Tactics]
+- Advanced R&D
+- Bats the Ghost Hound
+- Brace for Impact
+- Deal With The Devil
+- Gamma Launch
+- Heroes For Hire
+- Highway To Hell
+- Patch Up
+- Seven Suns of Cinnibus
+- Siege of Darkness
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Research Station Attacked! [E]: 16
+
+[Secure Crises]
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Infinity Formula Goes Missing [B]: 17
+"
+4555,"213,203","X-Force / X-Men
+
+Characters 10:
+Threat: 35
+Beast Threat: 3
+*Cable Threat: 5
+Domino Threat: 3
+Baron Zemo Threat: 3
+Toad Threat: 2
+Winter Soldier Threat: 3
+*Storm Threat: 3
+Scarlet Witch Threat: 5
+Wolverine Threat: 4
+Mister Sinister Threat: 4
+
+Tactics 10:
+Blind Obsession
+Brace for Impact R
+Field Dressing R
+Cat and Mouse
+To Me, My X-Men!
+First Class
+Marked for Death
+X-Ceptional Healing
+Sacrifice
+The Whims of Chaos
+
+Secure Crisis:
+Infinity Formula Goes Missing! Threat: 17
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+S.W.O.R.D. Establishes Base on Moon's Blue Area Threat: 14
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Skrulls Infiltrate World Leadership Threat: 17
+Mutant Extremists Target U.S. Senators! Threat: 14
+"
+4555,"197,301","MS/DEF
+
+Characters 10:
+Threat: 37
+*Doctor Strange Soul Threat: 6
+Doctor Voodoo Threat: 4
+*Blade Threat: 4
+Ghost Rider Threat: 5
+Iron Fist Threat: 3
+Taskmaster Threat: 3
+Moon Knight Threat: 3
+Okoye Threat: 2
+Daredevil Threat: 4
+Hawkeye Threat: 3
+
+Tactics 10:
+Heroes for Hire
+Field Dressing R
+Brace for Impact R
+Bats the Ghost Hound
+Siege of Darkness
+Blind Obsession
+Deal with the Devil
+Disarm
+Pentagram of Farallah
+Sacrifice
+
+Secure Crisis:
+Gamma Wave Sweeps Across Midwest Threat: 15
+Riots Spark Over Extremis 3.0 Threat: 17
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+
+Extract Crisis:
+Skrulls Infiltrate World Leadership Threat: 17
+Research Station Attacked! Threat: 16
+The Montesi Formula Found Threat: 17
+"
+4555,183,"Cap Steve
+Thor
+Loki with mind
+Black Panther
+Scarlet witch
+Wolverine
+Iron Man
+Dr voodoo
+Black widow
+Zemo
+
+Tactics
+medpack, Brace, assemble, no matter cost, disarm, sibling rivelrt, ricochet blast, mission objective, no more mutants, advanced R and d
+
+Herbs
+Hammers
+Research
+Mayor fisk
+Infinity formula 
+Mutant madman "
+4555,185,"Ted skull
+Sin
+MODOK
+Crossbones
+Enchantress
+Bullseye
+Ultron
+Moon knight
+Zemo
+Hood
+Cosmic invigoration
+Illicit tech
+Aim lackeys
+Dark reign
+Brace for impact
+Climbing gear
+Grievous wounds
+Disarm
+Patch up
+Hoods gang
+Infinity formula
+Deadly meteors
+Riots spark
+Spider infected
+Struggle for the cube
+Montesi formula
+"
+4548,191,"Webs LVO
+
+[Characters]
+- Black Cat: 3
+- Captain America Sam Wilson: 3
+- Doctor Voodoo: 4
+- Enchantress: 4
+- Ghost-Spider: 3
+- Loki, God of Mischief: 4
+-- Infinity Gem: Space: 1
+- Moon Knight: 3
+- Spider-Man Miles Morales: 3
+- Toad: 2
+- Venom: 4
+
+[Team Tactics]
+- Advanced R&D
+- All Webbed Up
+- Blind Obsession
+- Brace for Impact
+- Disarm
+- Lethal Protector
+- Medpack
+- Mission Objective
+- No Matter the Cost
+- Spider-Tracker
+
+[Extract Crises]
+- Deadly Legacy Virus Cured? [C]: 19
+- Spider-Infected Invade Manhattan [F]: 17
+- Struggle for the Cube Continues [F]: 17
+
+[Secure Crises]
+- Cosmic Invasion! Black Order Descends on Earth [D]: 16
+- Infinity Formula Goes Missing [B]: 17
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4548,195,"Starlord
+Rocket
+Groot
+Drax
+Nebula
+Angela
+Winter Solider
+Venom
+Bullseye
+Ghost Rider
+
+Field Dressing
+Bitter Rivals
+Deadly Duo
+Loveable Misfits
+Crew of the Milano
+Blind Obsession
+Deal With The Devil
+Lethal Protector
+Marked For Death
+Sacrifice
+
+17 Skrulls Infiltrate World Leadership
+18 Fear Grips World As Worthy Terrorize Cities
+16 Research Station Attacked!
+
+15 Gamma Wave Sweeps Across Midwest
+19 Demons Downtown! Has Our Comeuppance Come Due?
+17 Infinity Formula Goes Missing"
+4548,"206,183","Characters 
+Magneto-6 
+Mystique-3 
+Quicksilver-3 
+Toad-2 
+Scarlet Witch-5 
+Hulkbuster-6 
+Angela -5 
+Doctor Voodoo-4 
+Iron Fist-3 
+Okoye-2 
+
+Team tactics 
+Asteroid M 
+Follow me
+Field Dressing 
+Brace for impact 
+Deception 
+No more mutants 
+Avengers assemble 
+Climbing Gear 
+Can I borrow that? 
+Sacrifice 
+
+Secures 
+Madman-18 
+Spider portals-18 
+Meteors-17 
+
+Extracts
+Alien ships-20 
+Senators-14 
+Skrull-17 "
+4548,"193,301","Midnight
+
+[Characters]
+- Black Cat: 3
+- Blade: 4
+- Corvus Glaive: 4
+-- Infinity Gem: Reality: 1
+- Doctor Voodoo: 4
+- Ghost Rider: 5
+- Iron Fist: 3
+- Kraven the Hunter: 3
+- Proxima Midnight: 3
+- Thanos, the Mad Titan: 6
+-- Infinity Gem: Mind: 1
+-- Infinity Gem: Space: 1
+- Wong: 2
+
+[Team Tactics]
+- Bitter Rivals
+- Deal With The Devil
+- Execute
+- Follow Me
+- Heroes For Hire
+- Marked For Death
+- Medpack
+- Mothership
+- Sacrifice
+- Siege of Darkness
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Research Station Attacked! [E]: 16
+- Skrulls Infiltrate World Leadership [C]: 17
+
+[Secure Crises]
+- Cosmic Invasion! Black Order Descends on Earth [D]: 16
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Intrusions Open Across City As Seals Collapse [C]: 19
+"
+4548,"193,191","[Characters]
+- Black Cat: 3
+- Black Panther: 4
+- Corvus Glaive: 4
+-- Infinity Gem: Reality: 1
+- Doctor Voodoo: 4
+- Ghost-Spider: 3
+- Moon Knight: 3
+- Proxima Midnight: 3
+- Spider-Man Miles Morales: 3
+- Thanos, the Mad Titan: 6
+-- Infinity Gem: Mind: 1
+-- Infinity Gem: Power: 1
+- Toad: 2
+
+[Team Tactics]
+- Advanced R&D
+- All Webbed Up
+- Aunt May's Wheat Cakes
+- Brace for Impact
+- Marked For Death
+- Medpack
+- Mission Objective
+- Mothership
+- Sacrifice
+- Spider-Tracker
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Mutant Extremists Target U.S. Senators! [C]: 14
+- Skrulls Infiltrate World Leadership [C]: 17
+
+[Secure Crises]
+- Cosmic Invasion! Black Order Descends on Earth [D]: 16
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4548,"199,211","spider foes
+
+[Characters]
+- Amazing Spider-Man: 5
+- Bullseye: 2
+- Doctor Octopus: 3
+- Doctor Strange, Sorcerer Supreme: 5
+- Green Goblin: 4
+- Killmonger: 4
+- Lizard: 3
+- Mystique: 3
+- Toad: 2
+- Venom: 4
+
+[Team Tactics]
+- Deception
+- Field Dressing
+- Lethal Protector
+- Marked For Death
+- Medpack
+- Mission Objective
+- Sacrifice
+- Sinister Traps
+- Usurp the Throne
+- Well-Laid Plans
+
+[Extract Crises]
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Spider-Infected Invade Manhattan [F]: 17
+- Struggle for the Cube Continues [F]: 17
+
+[Secure Crises]
+- Infinity Formula Goes Missing [B]: 17
+- Intrusions Open Across City As Seals Collapse [C]: 19
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+"
+4548,201,"Criminal Syndicate
+
+Kingpin
+Omega Red
+Good
+Black Cat
+Luke Cage
+Mysterio
+Crossbones
+Lizard
+Bullseye
+Black Widow
+
+Brace for Impact
+Medpack
+Missions Objective
+Disarm
+Climbing Gear
+Sacrifice
+Warpath
+All According To Plan
+Heroes For Hire
+The Grand Illusion
+
+Infinity Formula
+Riots over Extremis
+Gamma Wave
+
+Deadly Legacy Virus
+Research Station
+Wakandan Herbs"
+4548,201,"CS LVO v1
+
+Characters 10:
+Threat: 30
+Lizard Threat: 3
+Black Cat Threat: 3
+Bullseye Threat: 2
+Mysterio Threat: 3
+*Kingpin Threat: 4
+Hood Threat: 3
+Iron Fist Threat: 3
+Toad Threat: 2
+Omega Red Threat: 4
+Baron Zemo Threat: 3
+
+Tactics 10:
+Medpack R
+All According to Plan
+The Grand Illusion
+Climbing Gear
+Sacrifice
+Advanced R&D
+Field Dressing R
+Monkey Brain is Lizard Home
+Heroes for Hire
+Hood's Gang
+
+Secure Crisis:
+Terrigen Clouds Sweep Over City Threat: 20
+Gamma Wave Sweeps Across Midwest Threat: 15
+Mayor Fisk Vows to Find Missing Witnesses Threat: 16
+
+Extract Crisis:
+Deadly Legacy Virus Cured? Threat: 19
+Struggle for the Cube Continues Threat: 17
+Research Station Attacked! Threat: 16
+"
+4548,213,"Cable.               Brace
+Deadpool.       Medpack
+Domino.          Cat and mouse
+Bob.                 Xceptional healing
+Wolverine.      Pretty sneaky sis
+Saber tooth.   Weapon X program
+Cyclops.          Yoink
+Winter soldier. Bitter rivals
+Beast.                Chimichangas
+Zemo.                Follow me
+
+Secure
+Sword base
+Mutant madman
+Infinity formula
+
+Extract
+Struggle for cube
+Deadly legacy virus
+Montessi formula."
+4548,"183,209","[Characters]
+- Black Widow: 2
+- Captain America Sam Wilson: 3
+- Captain America Steve Rogers: 4
+- Hulk: 6
+- Iron Fist: 3
+- Iron Man: 3
+- Luke Cage: 3
+- Okoye: 2
+- She-Hulk: 6
+- Vision: 4
+
+[Team Tactics]
+- Avengers Assemble
+- Blind Obsession
+- Climbing Gear
+- Escort to Safety
+- Field Dressing
+- Heroes For Hire
+- Medpack
+- Mission Objective
+- Sacrifice
+- Stalwart Determination
+
+[Extract Crises]
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Mystic Wakandan Herbs: Fact or Fiction? [A]: 15
+- Research Station Attacked! [E]: 16
+
+[Secure Crises]
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- S.W.O.R.D. Establishes Base On Moon's Blue Area [C]: 14
+- Terrigen Clouds Sweep Over City [C]: 20
+"
+4548,206,"Brotherhood
+
+[Characters]
+- Captain Marvel: 4
+- Ghost-Spider: 3
+- Lizard: 3
+- Lockjaw: 3
+- Magneto: 6
+- Mystique: 3
+- Quicksilver: 3
+- Scarlet Witch: 5
+- Toad: 2
+- Vision: 4
+
+[Team Tactics]
+- Asteroid M
+- Blind Obsession
+- Can I Borrow That?
+- Climbing Gear
+- Deception
+- Field Dressing
+- Magnetic Refraction
+- Monkey Brain is Lizard Home
+- No More Mutants
+- Patch Up
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Deadly Legacy Virus Cured? [C]: 19
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+
+[Secure Crises]
+- Deadly Meteors Mutate Civilians [C]: 17
+- Intrusions Open Across City As Seals Collapse [C]: 19
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+"
+4548,195,"Guardians of The Galaxy LVO 2.0
+
+Characters 10:
+Threat: 33
+*Star-Lord Threat: 3
+Groot Threat: 3
+Rocket Raccoon Threat: 2
+Gamora Threat: 4
+Angela Threat: 5
+Toad Threat: 2
+*Mystique Threat: 3
+Nebula Threat: 2
+Lizard Threat: 3
+*Hulkbuster Threat: 6
+
+Tactics 10:
+Crew of the Milano
+We Are Groot
+Deadly Duo
+Blind Obsession
+Deception
+Field Dressing R
+Helios Laser Bombardment
+Monkey Brain is Lizard Home
+Medpack R
+Marked for Death
+
+Secure Crisis:
+Riots Spark Over Extremis 3.0 Threat: 17
+Portals Overrun City with Spider-People! Threat: 18
+Cosmic Invasion! Black Order Descends on Earth Threat: 16
+
+Extract Crisis:
+Spider-Infected Invade Manhattan Threat: 17
+Struggle for the Cube Continues Threat: 17
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+"
+4548,"183,193","Thanos mind gem.           
+Corvus Glaive reality gem
+Proxima midnight 
+Sam Wilson
+Luke Cage
+Iron Fist
+Iron man
+Black widow 2point
+Vision 
+Scarlet Witch
+
+Mothership
+Execute 
+Bird of Prey
+Bitter Rivals
+Field Dressing
+Heroes for Hire
+Ricochet Blast
+Marked For death
+Avengers Assemble
+Follow Me
+
+Sword 14C. Infinity formula 17B. Extremis 17D
+Spider Infected 17E. Skrulls 17C. Spellbooks 17E"
+4548,183,"[Characters]
+- Black Cat: 3
+- Black Widow: 2
+- Bullseye: 2
+- Captain America Sam Wilson: 3
+- Ghost Rider: 5
+- Hawkeye: 3
+- Hulkbuster: 6
+- Iron Fist: 3
+- Mystique: 3
+- Vision: 4
+
+[Team Tactics]
+- Avengers Assemble
+- Climbing Gear
+- Deal With The Devil
+- Deception
+- Disarm
+- Field Dressing
+- Follow Me
+- Helios Laser Bombardment
+- Heroes For Hire
+- Patch Up
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Deadly Legacy Virus Cured? [C]: 19
+- Struggle for the Cube Continues [F]: 17
+
+[Secure Crises]
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+- Portals Overrun City with Spider-People [D]: 18
+- Riots Spark Over Extremis 3.0 [D]: 17
+"
+4548,185,"Red skull
+Sin
+MODOK
+Crossbones
+Enchantress
+Bullseye
+Ultron
+Taskmaster
+Baron Zeno
+Hood
+Cosmic invigoration
+Illicit tech
+AIM lackeys
+Dark reign
+Brace for impact 
+Climbing gear
+Age of ultron
+Disarm
+Patch up
+Hoods gang
+Infinity formula goes missing
+Deadly meteors mutate civilians
+Riots spark over extremist 3.0
+Spider infected invade Manhattan
+Struggle for the cube continues
+Montesi formula found "
+4548,"213,303","Cable
+Domino
+Deadpool
+Bob, Agent of Hydra
+Wolverine
+Sabertooth
+Scarlet Witch
+Loki
+Toad
+Dormammu
+
+Pretty Sneaky, Sis
+Recalibration Matrix
+Chimichangas
+Warpath
+Dark Restoration
+Medpack
+No Matter the Cost
+The Whims of Chaos
+X-ceptional Healing
+Cat & Mouse
+
+Extract:
+
+Struggle for the cube continues
+Alien ships crashes downtown
+Deadly legacy virus cured
+
+Secure:
+
+Gamma Wave sweeps across Midwest
+Demons Downtown! Has our comeuppance come due?
+Intrusions open across city as seals collapse
+"
+4548,197,"CHARACTERS
+Doctor Strange, Stephen Vincent Strange
+Soul Gem carried by Doctor Strange
+Wong
+Ghost Rider
+Valkyrie
+Loki, God of Mischief
+Mind Gem carried by Loki
+Angela
+Mysterio
+Bob, Agent of Hydra
+TACTIC CARDS
+Field Dressing
+Grievous Wounds
+Seven Suns of Cinnibus
+Battle Lust
+Patch Up
+Odins Blessing
+No Matter the Cost
+Deal with the Devil
+Inspiring Monologue
+Pentagram of Farallah
+SECURE CRISIS
+Deadly Meteors Mutate Civilians
+Mutant Madman Turns City Center into Lethal Amusement Park
+Portals Overrun City with Spider-People!
+EXTRACT CRISIS
+Fear grips world as “Worthy” terrorize Cities
+The Montesi Formula Found
+Spider-Infected invade Manhattan
+"
+4548,183,"Avengers LVO
+
+[Characters]
+- Black Cat: 3
+- Black Widow: 2
+- Captain America Sam Wilson: 3
+- Captain America Steve Rogers: 4
+- Doctor Voodoo: 4
+- Hulk: 6
+- Iron Fist: 3
+- Iron Man: 3
+- Luke Cage: 3
+- Vision: 4
+
+[Team Tactics]
+- Advanced R&D
+- Avengers Assemble
+- Brace for Impact
+- Disarm
+- Escort to Safety
+- Field Dressing
+- Follow Me
+- Heroes For Hire
+- Ricochet Blast
+- Sacrifice
+
+[Extract Crises]
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Mystic Wakandan Herbs: Fact or Fiction? [A]: 15
+- Spider-Infected Invade Manhattan [F]: 17
+
+[Secure Crises]
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Mutant Madman Turns City Center Into Lethal Amusement Park [B]: 18
+- Portals Overrun City with Spider-People [D]: 18
+"
+4548,"301,183","Midnight Sons
+
+Characters 10:
+Threat: 37
+*Doctor Strange Threat: 5
+*Blade Threat: 4
+Doctor Voodoo Threat: 4
+Venom Threat: 4
+Iron Fist Threat: 3
+Moon Knight Threat: 3
+Ghost-Spider Threat: 3
+Baron Zemo Threat: 3
+Bullseye Threat: 2
+*Hulkbuster Threat: 6
+
+Tactics 10:
+Siege of Darkness
+Heroes for Hire
+Lethal Protector
+Disarm
+Medpack R
+Climbing Gear
+Blind Obsession
+Bitter Rivals R
+Advanced R&D
+Avengers Assemble
+
+Secure Crisis:
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+Infinity Formula Goes Missing! Threat: 17
+Gamma Wave Sweeps Across Midwest Threat: 15
+
+Extract Crisis:
+Research Station Attacked! Threat: 16
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Spider-Infected Invade Manhattan Threat: 17
+"
+4548,"199,201","Foe Da Original
+
+Characters 10:
+Threat: 35
+*Green Goblin Threat: 4
+Doctor Octopus Threat: 3
+Lizard Threat: 3
+Mysterio Threat: 3
+Kraven the Hunter Threat: 3
+Venom Threat: 4
+*Kingpin Threat: 4
+*Star-Lord Power Threat: 4
+Killmonger Threat: 4
+Lockjaw Threat: 3
+
+Tactics 10:
+Sinister Traps
+Well-Laid Plans
+Usurp the Throne
+Eyes on the Prize
+Blind Obsession
+Bitter Rivals R
+Lethal Protector
+Monkey Brain is Lizard Home
+Grievous Wounds
+Brace for Impact R
+
+Secure Crisis:
+Infinity Formula Goes Missing! Threat: 17
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+Riots Spark Over Extremis 3.0 Threat: 17
+
+Extract Crisis:
+Struggle for the Cube Continues Threat: 17
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Spider-Infected Invade Manhattan Threat: 17
+"
+4548,201,"MoE’s Thugs
+
+Characters 10:
+Threat: 30
+*Kingpin Threat: 4
+Bullseye Threat: 2
+Rocket Raccoon Threat: 2
+Groot Threat: 3
+Crossbones Threat: 3
+Taskmaster Threat: 3
+*Green Goblin Threat: 4
+Black Cat Threat: 3
+Lizard Threat: 3
+Hood Threat: 3
+
+Tactics 10:
+Shadow Organization
+Cruelty
+Field Dressing R
+Climbing Gear
+Deadly Duo
+We Are Groot
+Monkey Brain is Lizard Home
+Hood's Gang
+Medpack R
+Disarm
+
+Secure Crisis:
+Infinity Formula Goes Missing! Threat: 17
+Gamma Wave Sweeps Across Midwest Threat: 15
+Mayor Fisk Vows to Find Missing Witnesses Threat: 16
+
+Extract Crisis:
+Mystic Wakandan Herbs: Fact or Fiction? Threat: 15
+Research Station Attacked! Threat: 16
+Struggle for the Cube Continues Threat: 17
+"
+4548,305,"Convocation
+
+Characters 10:
+Threat: 36
+Doctor Strange, Sorcerer Supreme Threat: 5
+Ancient One Threat: 4
+Doctor Voodoo Threat: 4
+Baron Mordo Threat: 3
+Ebony Maw Threat: 5
+Hood Threat: 3
+Baron Zemo Threat: 3
+Loki, God of Mischief Threat: 4
+Bullseye Threat: 2
+Clea Threat: 3
+
+Tactics 10:
+Astral Ring
+Iron-Bound Books of Shuma-Gorath
+Plane of Pohldahk
+The Bar with No Doors
+Book of Cagliostro
+Disarm
+Bitter Rivals R
+Eyes on the Prize
+Field Dressing R
+Orb of Agamotto
+
+Secure Crisis:
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+Terrigen Clouds Sweep Over City Threat: 20
+Intrusions Open Across City as Seals Collapse Threat: 19
+
+Extract Crisis:
+Alien Ship Crashes in Downtown! Threat: 20
+Skrulls Infiltrate World Leadership Threat: 17
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+"
+4548,185,"Red skull
+MODOK
+Baron zemo
+Okoye
+Enchantress
+Bullseye
+Lizard
+Medusa 
+Vision
+Hawkeye
+Patch up
+Cosmic invigoration 
+Advanced R&D
+Mission objective
+Marked for death
+Sucker
+Eyes on the prize
+Trip up
+Brace for impact
+One two punch
+Terri then clouds sweep over city
+Infinity formula goes missing
+Mutant madman turns city center into amusement
+Struggle for cube continues
+Fear grips as worthy…
+Spider infected invade manhattan"
+4548,"189,185","Thor, Hela,  Valkyrie, Angela, Sin, Crossbones, Bullseye, Baron Zemo, Enchantress, Cpt America Steve
+.
+Odin’s Blessing, Dark Reign, Brace for Impact, Patch Up, Tactical Analysis, marked for Death, battle Lust, Sacrifice, climbing gear, illicit tech. 
+.
+Deadly Meteors, Spider Portals, Mutant Mad Man / Montesi Formula, Hammers, Alien Ship Crash/Core
+"
+4548,"213,183,303","lvo
+
+Characters 10:
+Threat: 37
+*Cable Threat: 5
+Deadpool Threat: 3
+Domino Threat: 3
+Baron Zemo Threat: 3
+*Captain America Steve Rogers Threat: 4
+*Dormammu Threat: 8
+Hood Threat: 3
+Luke Cage Threat: 3
+Shuri Threat: 3
+Nebula Threat: 2
+
+Tactics 10:
+Avengers Assemble
+Blind Obsession
+Brace for Impact R
+Cat and Mouse
+Dark Restoration
+Heroes for Hire
+Hood's Gang
+Medpack R
+Sacrifice
+Face Me
+
+Secure Crisis:
+S.W.O.R.D. Establishes Base on Moon's Blue Area Threat: 14
+Gamma Wave Sweeps Across Midwest Threat: 15
+Mayor Fisk Vows to Find Missing Witnesses Threat: 16
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Research Station Attacked! Threat: 16
+Mutant Extremists Target U.S. Senators! Threat: 14
+"
+4548,"197,301","Dr Strange with Soul Stone
+Hulk
+Blade
+Ghost Rider
+Dr Voodoo
+Iron Fist
+Moon Knight 
+Black Cat
+Winter Soldier
+Toad
+
+Field Dressing r
+Bitter Rivals r
+Siege of Darkness
+Deal with the Devil
+Tactical Analysis
+Hero’s for Hire
+Bats the Ghost Hound
+Advanced R&D
+Inspiring Monologue 
+Seance
+
+Terrigan Clouds
+Demons Downtown 
+SWORD
+
+Fear Grips World aka Hammers
+Spider-Infected Invade Manhattan 
+Skrulls Infiltrate World Leadership"
+4548,183,"Falcon
+
+Characters 10:
+Threat: 36
+Ant-Man Threat: 3
+*Captain America Sam Wilson Threat: 3
+*Hulkbuster Threat: 6
+Iron Fist Threat: 3
+Luke Cage Threat: 3
+Black Widow Threat: 2
+Vision Threat: 4
+*Black Panther Threat: 4
+Ghost Rider Threat: 5
+Punisher Threat: 3
+
+Tactics 10:
+Heroes for Hire
+Avengers Assemble
+Blind Obsession
+Bird of Prey
+Brace for Impact R
+Medpack R
+Mission Objective
+Highway to Hell
+Deal with the Devil
+Marked for Death
+
+Secure Crisis:
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+Gamma Wave Sweeps Across Midwest Threat: 15
+Infinity Formula Goes Missing! Threat: 17
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Mystic Wakandan Herbs: Fact or Fiction? Threat: 15
+Research Station Attacked! Threat: 16
+"
+4548,"213,203","X-Force / X-Men
+
+Characters 10:
+Threat: 35
+Beast Threat: 3
+*Cable Threat: 5
+Domino Threat: 3
+Baron Zemo Threat: 3
+Toad Threat: 2
+Winter Soldier Threat: 3
+*Storm Threat: 3
+Scarlet Witch Threat: 5
+Wolverine Threat: 4
+Mister Sinister Threat: 4
+
+Tactics 10:
+Blind Obsession
+Brace for Impact R
+Field Dressing R
+Cat and Mouse
+To Me, My X-Men!
+First Class
+Marked for Death
+X-Ceptional Healing
+Sacrifice
+The Whims of Chaos
+
+Secure Crisis:
+Infinity Formula Goes Missing! Threat: 17
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+S.W.O.R.D. Establishes Base on Moon's Blue Area Threat: 14
+
+Extract Crisis:
+Fear Grips World as ""Worthy"" Terrorize Cities Threat: 18
+Skrulls Infiltrate World Leadership Threat: 17
+Mutant Extremists Target U.S. Senators! Threat: 14
+"
+4548,"197,301","MS/DEF
+
+Characters 10:
+Threat: 37
+*Doctor Strange Soul Threat: 6
+Doctor Voodoo Threat: 4
+*Blade Threat: 4
+Ghost Rider Threat: 5
+Iron Fist Threat: 3
+Taskmaster Threat: 3
+Moon Knight Threat: 3
+Okoye Threat: 2
+Daredevil Threat: 4
+Hawkeye Threat: 3
+
+Tactics 10:
+Heroes for Hire
+Field Dressing R
+Brace for Impact R
+Bats the Ghost Hound
+Siege of Darkness
+Blind Obsession
+Deal with the Devil
+Disarm
+Pentagram of Farallah
+Sacrifice
+
+Secure Crisis:
+Gamma Wave Sweeps Across Midwest Threat: 15
+Riots Spark Over Extremis 3.0 Threat: 17
+Demons Downtown! Has Our Comeuppance Come Due? Threat: 19
+
+Extract Crisis:
+Skrulls Infiltrate World Leadership Threat: 17
+Research Station Attacked! Threat: 16
+The Montesi Formula Found Threat: 17
+"
+4548,"191,183","Miles Spider-Man 
+Core Peter Spider-Man 
+Amazing Spider-Man 
+Ghost spider 
+Venom
+Black cat
+Deadpool 
+Captain America Steve
+Captain Marvel 
+Vision 
+
+All webbed up
+Web barrier 
+The cat and the spider
+Lethal protector 
+Spider tracker
+Aunt mays wheat cakes
+Uneasy Allies 
+Disarm 
+Trip up 
+Extreme conditioning 
+
+Cosmic invasion 
+Infinity formula 
+Riots spark 
+
+Mystic wakanda herbs
+Struggle for the cube
+Fear grips world as worthy 
+
+
+"
+4548,"301,183","Blade
+Moon knight
+Iron Fist
+Ghost rider
+Dr. Voodoo
+Zemo
+Hulkbuster
+Black dwarf
+Okoye
+Rocket
+
+Siege
+Bats
+Blind obsession
+Helios laser
+Smash
+Heroes for hire
+Grievous wounds
+Deal w devil
+Brace for impact
+Patch up
+
+Intrusions
+Demons
+Infinity formula
+
+Fear grips
+Alien ships
+Research station"
+4548,301,"Midnight Defenders
+
+[Characters]
+- Black Dwarf: 4
+- Blade: 4
+- Doctor Voodoo: 4
+- Ghost Rider: 5
+- Iron Fist: 3
+- Luke Cage: 3
+- Moon Knight: 3
+- Shuri: 3
+- Toad: 2
+- Wong: 2
+
+[Team Tactics]
+- Brace for Impact
+- Deal With The Devil
+- Grievous Wounds
+- Heroes For Hire
+- Highway To Hell
+- Marked For Death
+- Patch Up
+- Sacrifice
+- Seance
+- Siege of Darkness
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+- Research Station Attacked! [E]: 16
+
+[Secure Crises]
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Gamma Wave Sweeps Across Midwest [E]: 15
+- Terrigen Clouds Sweep Over City [C]: 20
+"
+4548,183,"Cap Steve
+Quick silver
+Loki with mind
+Black Panther
+Ghost rider
+Deadpool
+Iron Man
+Dr voodoo
+Black widow
+Zemo
+
+Tactics
+medpack, Brace, assemble, sacrifice, disarm, follow me, ricochet blast, disarm, deal with the devil, advanced R and d
+
+Herbs
+Hammers
+Spider infected 
+Riot extremis
+Infinity formula 
+Mutant madman 
+
+
+
+
+"
+4548,"209,191","LVO
+
+Characters 10:
+Threat: 36
+Black Widow Threat: 2
+Captain Marvel Threat: 4
+Crystal Threat: 3
+*She-Hulk Threat: 6
+Lockjaw Threat: 3
+Daredevil Threat: 4
+Ghost-Spider Threat: 3
+*Spider-Man Miles Morales Threat: 3
+Spider-Man Peter Parker Threat: 4
+Venom Threat: 4
+
+Tactics 10:
+A-Force Assemble
+Special Delivery
+Stalwart Determination
+All Webbed Up
+Uneasy Allies
+Brace for Impact R
+Patch Up R
+Lethal Protector
+Last-Minute Save
+Elemental Infusion
+
+Secure Crisis:
+Portals Overrun City with Spider-People! Threat: 18
+Mutant Madman Turns City Center Into Lethal Amusement Park Threat: 18
+Infinity Formula Goes Missing! Threat: 17
+
+Extract Crisis:
+Struggle for the Cube Continues Threat: 17
+Spider-Infected Invade Manhattan Threat: 17
+Skrulls Infiltrate World Leadership Threat: 17
+"
+4548,"185,201","Cabal
+
+[Characters]
+- Baron Mordo: 3
+- Bullseye: 2
+- Hood: 3
+- Hulkbuster: 6
+- Iron Man: 3
+- Kingpin: 4
+- Mysterio: 3
+- Red Skull: 4
+- Sabretooth: 4
+- Ultron: 4
+
+[Team Tactics]
+- Cosmic Invigoration
+- Dark Reign
+- Field Dressing
+- Helios Laser Bombardment
+- Hood's Gang
+- Medpack
+- Mission Objective
+- The Age of Ultron
+- The Grand Illusion
+- X-Ceptional Healing
+
+[Extract Crises]
+- Alien Ship Crashes in Downtown! [C]: 20
+- Deadly Legacy Virus Cured? [C]: 19
+- Fear Grips World as ""Worthy"" Terrorize Cities [D]: 18
+
+[Secure Crises]
+- Demons Downtown! Has Our Comeuppance Come Due? [E]: 19
+- Intrusions Open Across City As Seals Collapse [C]: 19
+- Terrigen Clouds Sweep Over City [C]: 20
+"
+4548,201,"Kingpin
+Baron Zemo
+MODOK
+Bullseye
+Omega Red
+Ultron
+Venom
+Black Cat
+Crossbones
+Mr Sinister
+
+Shadow Organization
+All According to Plan
+Mission Objective
+Cruelty
+AIM Lackeys
+Illicit Tech
+Lethal Protector
+Climbing Gear
+Brace for Impact
+Age of Ultron
+
+Infinity Formula
+Mayor Fisk Missing Witnesses
+Riots Spark Extremists
+
+Skrulls Infiltrate
+Struggle for the Cube
+Research Station"
+4548,"201,199","King pin
+Omega red
+Venom 
+Kill monger
+Modok 
+Black cat
+Mysterio 
+Bullseye
+Winter soldier 
+Green goblin
+
+Riots spark over extremist 
+
+Gamma wave sweeps
+
+Demons downtown 
+
+
+Struggle for the cube
+
+Research station 
+
+Montesi formula 
+
+
+Tactics 
+
+Lethal protector 
+
+Climbing gear
+
+Disarm 
+
+Brace for impact
+
+Med pack
+
+Blind obsession 
+
+Usurp the throne 
+
+Cruelty 
+
+All according to plan
+
+Aim lackeys 
+"
+4548,"199,191","Green Goblin
+Venom 
+Carnage
+Kraven
+Doc Oc
+Lizard
+Spider-man Miles
+Amazing Spider-Man
+Black Cat
+Ghost spider
+
+Team tactics:
+Disarm
+The cat and the spider
+Lethal protector
+Carnage rules
+Sinister traps
+Blind Obsession
+Well- Laid Plans
+Spider- Tracker
+All webbed up
+Aunt May's wheat cakes
+
+Secure:
+Gamma wave
+Riots spark
+Cosmic Invasion
+
+Extract:
+Fear terrorizes
+Spider infected invade
+MUTANT Extremists
+
+
+"
+4548,"195,301","Starlord
+Gamora
+Nebula
+Rocket
+Groot
+Drax
+Blade
+Ghost rider
+Moon knight
+Dr Voodoo
+
+Lovable misfits
+Crew of the Milano
+Blind obsession
+Disarm
+Deal with the devil
+Deadly duo
+Face me
+We are Groot
+Siege of darkness
+Medpack
+
+Cosmic invasion
+Infinity formula
+Riot sparks
+
+Spider infected
+Struggle for the cube
+Fear grips world
+"
